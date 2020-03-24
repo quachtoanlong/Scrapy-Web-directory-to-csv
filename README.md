@@ -11,8 +11,8 @@ With the spider, the tasks are still the same, but the spider bot will do it wit
 # Folder directory
 
 1. The spider name is gettheprof. It is stored in the folder gettheprof
-2a. The crawled website is https://bizfaculty.nus.edu.sg/faculty-directory/
-2b. Gettheprof.csv is the result of this spider
+2. The crawled website is https://bizfaculty.nus.edu.sg/faculty-directory/
+3. Gettheprof.csv is the result of this spider
 
 # Replication
 If you are new and wish to replicate the project, here is something you will need:
