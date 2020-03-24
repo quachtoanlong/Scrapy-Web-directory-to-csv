@@ -8,6 +8,12 @@ The manual tasks were to go to https://bizfaculty.nus.edu.sg/faculty-directory/,
 
 With the spider, the tasks are still the same, but the spider bot will do it within a few seconds.
 
+# Folder directory
+
+1. The spider name is gettheprof. It is stored in the folder gettheprof
+2a. The crawled website is https://bizfaculty.nus.edu.sg/faculty-directory/
+2b. Gettheprof.csv is the result of this spider
+
 # Replication
 If you are new and wish to replicate the project, here is something you will need:
 
@@ -15,3 +21,4 @@ If you are new and wish to replicate the project, here is something you will nee
 2. Basic knowledge about Python
 3. Ability to read html/css, and create xpath selector or css selector.
 
+Last update: 24 March 2020
