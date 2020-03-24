@@ -1,4 +1,4 @@
-# scrapy-NUSbizschool
+# Scrapy spider
 A web spider to crawl data from a directory to a csv
 
 # What does this do
